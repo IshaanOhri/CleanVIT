@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "628104013188",
+    "firebase_url": "https://cleanvit-8aaca.firebaseio.com",
+    "project_id": "cleanvit-8aaca",
+    "storage_bucket": "cleanvit-8aaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628104013188:android:646c9a904b2584884be9d1",
+        "android_client_info": {
+          "package_name": "com.ishaanohri.cleanvit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628104013188-5mcdmk7pp051mfd6c3hshvtj7pnnl266.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGZ0Vq-RtBqsDWJ9CfXmDzUzEtgHa4JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628104013188-5mcdmk7pp051mfd6c3hshvtj7pnnl266.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
