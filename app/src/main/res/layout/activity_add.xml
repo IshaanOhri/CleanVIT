@@ -50,7 +50,8 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/landmarkEditText"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:inputType="textCapSentences"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -72,6 +73,7 @@
                 android:id="@+id/remarksEditText"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:inputType="textCapSentences"
                 android:hint="Remarks (Optional)"/>
 
         </com.google.android.material.textfield.TextInputLayout>
