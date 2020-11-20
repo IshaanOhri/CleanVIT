@@ -4,20 +4,17 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
-
-import androidx.annotation.NonNull;
-import androidx.fragment.app.FragmentActivity;
-
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
-import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.fragment.app.FragmentActivity;
 
 import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 import com.bumptech.glide.Glide;
@@ -29,13 +26,11 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
-import com.google.android.material.dialog.MaterialAlertDialogBuilder;
-import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.button.MaterialButton;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
-import com.ishaanohri.cleanvit.R;
 import com.wang.avi.AVLoadingIndicatorView;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
@@ -44,7 +39,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private TextView landmarkTextView, dateTimeTextView, statusTextView, remarksTextView;
     private ImageView imageView;
     private Double latitude, longitude;
-    private Button deleteButton;
+    private MaterialButton deleteButton;
     private DatabaseReference databaseReference;
     private StorageReference storageReference;
     private LinearLayout linearLayout;

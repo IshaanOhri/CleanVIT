@@ -79,7 +79,7 @@
         android:textAllCaps="false"
         android:textColor="@android:color/white"
         android:textSize="18dp"
-        app:cornerRadius="20dp"
+        app:cornerRadius="5dp"
         app:layout_constraintEnd_toEndOf="@+id/imageView4"
         app:layout_constraintHorizontal_bias="0.476"
         app:layout_constraintStart_toStartOf="@+id/imageView4"

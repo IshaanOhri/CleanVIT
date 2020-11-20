@@ -90,7 +90,7 @@
 
     </LinearLayout>
 
-    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+    <com.google.android.material.button.MaterialButton
         android:id="@+id/addButton"
         style="@style/Widget.MaterialComponents.Button"
         android:layout_width="wrap_content"
@@ -106,6 +106,7 @@
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
         android:textSize="18dp"
+        app:cornerRadius="5dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
