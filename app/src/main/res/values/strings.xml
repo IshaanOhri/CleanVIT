@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CleanVIT</string>
+    <string name="app_name">Clean VIT</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
