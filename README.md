@@ -1,5 +1,6 @@
 <code>
   <h1 align="center">Clean VIT</h1>
+  <h3 align="center">The Daily Waste Management System</h3>
 </code>
 
 <div align="center">
@@ -11,7 +12,7 @@
 <br>
 
 <p align="center">
-  This is a template. Add description here.
+  An application for students to ensure proper collection of garbage in the campus. The application provides an interface where users can upload complaints and can track its realtime status. The admin gets notified of every complaint with its location, date and time of upload and the site image. The admin also gets the verified user's contact details.
 </p>
 
 ## Contributing
@@ -26,6 +27,9 @@ Any contributions you make are **greatly appreciated**.
 
 ## License
 The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/Clean-VIT/blob/master/LICENSE) for more information.
+
+## Author
+- [Ishaan Ohri](https://github.com/IshaanOhri)
 
 ## Tech Stacks / Tools used
 
