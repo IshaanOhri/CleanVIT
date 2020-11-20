@@ -28,7 +28,11 @@ Any contributions you make are **greatly appreciated**.
 The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/Clean-VIT/blob/master/LICENSE) for more information.
 
 ## Tech Stacks / Tools used
+
 <p>
+<p>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.svg" height=40 hspace=20>
+</p>
 </p>
 
 <br>
