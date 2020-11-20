@@ -136,8 +136,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
-        app:icon="@drawable/del_pic"
-        app:iconPadding="5dp"
         android:backgroundTint="@color/button_colour"
         android:paddingLeft="20dp"
         android:paddingTop="10dp"
