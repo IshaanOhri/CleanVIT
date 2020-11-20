@@ -1,5 +1,5 @@
 <code>
-  <h1 align="center">Template</h1>
+  <h1 align="center">Clean VIT</h1>
 </code>
 
 <div align="center">
@@ -31,7 +31,7 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 
 <p>
 <p>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.svg" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.png" height=40 hspace=20>
 </p>
 </p>
 
