@@ -25,7 +25,7 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 ## License
-The project is distributed under the MIT License. See [LICENSE](Add link to LICENSE) for more information.
+The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/Clean-VIT/blob/master/LICENSE) for more information.
 
 ## Tech Stacks / Tools used
 <p>
