@@ -3,9 +3,9 @@
 </code>
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Docker-Network?logo=github" hspace="5">
-  <img src="https://img.shields.io/github/license/IshaanOhri/Docker-Network" hspace="5">
-  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Docker-Network?logo=git">
+  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Clean-VIT?logo=github" hspace="5">
+  <img src="https://img.shields.io/github/license/IshaanOhri/Clean-VIT" hspace="5">
+  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Clean-VIT?logo=git">
 </div>
 
 <br>
