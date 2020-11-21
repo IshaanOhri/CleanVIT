@@ -15,6 +15,10 @@
   An application for students to ensure proper collection of garbage in the campus. The application provides an interface where users can upload complaints and can track its realtime status. The admin gets notified of every complaint with its location, date and time of upload and the site image. The admin also gets the verified user's contact details.
 </p>
 
+<br>
+
+<img src="https://github.com/IshaanOhri/Clean-VIT/blob/master/Design%20and%20Mockups/mockup.png">
+
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
