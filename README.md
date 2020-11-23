@@ -40,7 +40,7 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 <p>
 <p>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.svg" height=40 hspace=20>
 </p>
 </p>
 
