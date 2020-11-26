@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  An application for students to ensure proper collection of garbage in the campus. The application provides an interface where users can upload complaints and can track its realtime status. The admin gets notified of every complaint with its location, date and time of upload and the site image. The admin also gets the verified user's contact details.
+  An application for students to ensure proper collection of garbage on the campus. The application provides an interface where users can upload complaints and can track its realtime status. The admin gets notified of every complaint with its location, date and time of upload and the site image. The admin also gets the verified user's contact details.
 </p>
 
 <br>
