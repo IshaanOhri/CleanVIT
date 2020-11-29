@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "628104013188-jvp8b27fvfhiuc4gjqilrijng58t45oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishaanohri.cleanvit",
+            "certificate_hash": "710e2a14baca9049fdd8cf06cfdb9521507cfb50"
+          }
+        },
+        {
           "client_id": "628104013188-5mcdmk7pp051mfd6c3hshvtj7pnnl266.apps.googleusercontent.com",
           "client_type": 3
         }
