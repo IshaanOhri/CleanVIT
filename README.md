@@ -17,6 +17,10 @@
 
 <br>
 
+<a href="https://play.google.com/store/apps/details?id=com.ishaanohri.cleanvit">Download from Play Store📲</a>
+
+<br>
+
 <img src="https://github.com/IshaanOhri/Clean-VIT/blob/master/Design%20and%20Mockups/mockup.png">
 
 ## Contributing
