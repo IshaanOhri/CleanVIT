@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://github.com/IshaanOhri/Clean-VIT/blob/master/Design%20and%20Mockups/mockup.png">
+<img src="https://github.com/IshaanOhri/CleanVIT/blob/master/Design%20and%20Mockups/mockup.png">
 
 ## Contributing
 
@@ -36,7 +36,7 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 ## License
-The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/Clean-VIT/blob/master/LICENSE) for more information.
+The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/CleanVIT/blob/master/LICENSE) for more information.
 
 ## Author
 - [Ishaan Ohri](https://github.com/IshaanOhri)
