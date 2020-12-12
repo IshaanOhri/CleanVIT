@@ -4,9 +4,9 @@
 </code>
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Clean-VIT?logo=github" hspace="5">
-  <img src="https://img.shields.io/github/license/IshaanOhri/Clean-VIT" hspace="5">
-  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Clean-VIT?logo=git">
+  <img src="https://img.shields.io/github/repo-size/IshaanOhri/CleanVIT?logo=github" hspace="5">
+  <img src="https://img.shields.io/github/license/IshaanOhri/CleanVIT" hspace="5">
+  <img src="https://img.shields.io/github/last-commit/IshaanOhri/CleanVIT?logo=git">
 </div>
 
 <br>
