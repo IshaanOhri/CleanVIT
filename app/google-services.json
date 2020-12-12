@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "628104013188",
-    "firebase_url": "https://cleanvit-8aaca.firebaseio.com",
-    "project_id": "cleanvit-8aaca",
-    "storage_bucket": "cleanvit-8aaca.appspot.com"
+    "project_number": "313185950132",
+    "project_id": "cleanvit-24976",
+    "storage_bucket": "cleanvit-24976.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:628104013188:android:646c9a904b2584884be9d1",
+        "mobilesdk_app_id": "1:313185950132:android:8e6843e7bbf185c2f33ae1",
         "android_client_info": {
           "package_name": "com.ishaanohri.cleanvit"
         }
       },
       "oauth_client": [
         {
-          "client_id": "628104013188-jvp8b27fvfhiuc4gjqilrijng58t45oi.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.ishaanohri.cleanvit",
-            "certificate_hash": "710e2a14baca9049fdd8cf06cfdb9521507cfb50"
-          }
-        },
-        {
-          "client_id": "628104013188-5mcdmk7pp051mfd6c3hshvtj7pnnl266.apps.googleusercontent.com",
+          "client_id": "313185950132-fpq05bu3t2jpqatgf7go3m8gq9u85boe.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyArGZ0Vq-RtBqsDWJ9CfXmDzUzEtgHa4JU"
+          "current_key": "AIzaSyC1dJ5kp7FL10rjTnVvsC6YQWQpPcFuicU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "628104013188-5mcdmk7pp051mfd6c3hshvtj7pnnl266.apps.googleusercontent.com",
+              "client_id": "313185950132-fpq05bu3t2jpqatgf7go3m8gq9u85boe.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
